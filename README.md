@@ -29,7 +29,8 @@ python3 url_peeler.py
 Mason J. Hawkins  
 **Email:** [r3almjh@gmail.com](mailto:r3almjh@gmail.com)
 
----
+## Copyright
+As always, please respect this code. You may modify it, you may copy it, tldr you may use it however you'd like. I however ask that if you plan to use any of this code, please credit me. 
 
-*"use common sense. it's really helpful"*
-```
+This can be done by simply leaving the following comment:
+`original author: mason j. hawkins, r3almjh@gmail.com`
